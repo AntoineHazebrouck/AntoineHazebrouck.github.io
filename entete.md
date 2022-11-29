@@ -10,3 +10,9 @@ J'apprends aussi plusieurs outils de mon coté, via la realisation de petits pro
 - Quelques projets personnels orientés back-end. J'ai notament realisé systeme de signin/login pour appli web via Spring Boot.
 
 J'ai travaillé 2 saisons en restauration, ce qui m'a permis d'apprendre a travailler en grande equipe, ainsi que d'ameliorer ma communication, et mon organisation. J'ai aussi appris le dessin ainsi que la musique (guitare, piano) en autodidacte, je compose regulierement et je joue actuellement dans un groupe.
+
+- intro
+- parcours
+- languages & competences
+- projets
+- Mon CV
