@@ -5,6 +5,15 @@
 * License: https://bootstrapmade.com/license/
 */
 
+.portfolio-grid img {
+	height: 200px;
+	object-fit: cover;
+}
+
+.portfolio-grid .col {
+	height: 100%;
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
